@@ -1,4 +1,6 @@
 # startpage
+![image](https://user-images.githubusercontent.com/29592868/177585359-99d52be3-274f-49a3-945d-65dfe37c9915.png)
+
 My startpage, edited from github.com/kencx
 
 # How to use?
@@ -20,6 +22,3 @@ you can edit all of the URLs to your desired, starting on line **44** in ```inde
 ### Categories
 
 i think you get it, starting on line **44** you can change the names of the categories etc. etc. i believe you're not dumb and understand
-
-# Screenshot
-![image](https://user-images.githubusercontent.com/29592868/177585359-99d52be3-274f-49a3-945d-65dfe37c9915.png)
