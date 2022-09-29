@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 :root {
-    --color-bg: #1E1E2E;
-    --color-fg: #D9E0EE;
-    --color-link: #8F9191;
-    --color-link-visited: #F5C2E7;
-    --color-link-hover: #FF79C6 ;
+    --color-bg: #ffdcee;
+    --color-fg: #6683be;
+    --color-link: #000000;
+    --color-link-visited: #754c6c;
+    --color-link-hover: #c95f9b ;
 }
 
 html, body {
